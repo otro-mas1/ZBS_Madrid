@@ -40,5 +40,5 @@
 
 
 ## Cargaremos los datos de COVID y los presentaremos
-<img src="img/Mapa_TIA-14" align='center'>
+<img src="img/Mapa_TIA-14.png" align='center'>
 
