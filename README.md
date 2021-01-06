@@ -42,3 +42,7 @@
 ## Cargaremos los datos de COVID y los presentaremos
 <img src="img/Mapa_TIA-14.png" align='center'>
 
+
+## Además exportamos al final un fichero html, independiente e interactivo! ;)
+[ZBS_Madrid.html](ZBS_Madrid.html)
+
