@@ -46,3 +46,6 @@
 ## Además exportamos al final un fichero html, independiente e interactivo! ;)
 [ZBS_Madrid.html](ZBS_Madrid.html)
 
+
+## Filtramos las ZBS que superan el umbral
+<img src="img/ZBS_Madrid_filtradas.png" align='center'>
