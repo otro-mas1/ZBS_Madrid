@@ -49,3 +49,12 @@
 
 ## Filtramos las ZBS que superan el umbral
 <img src="img/ZBS_Madrid_filtradas.png" align='center'>
+
+
+## Seguimos evolucionando
+## Empezamos a usar todos los datos desde junio de 2020
+## Añadimos más interactividad y opciones de filtrado
+## Ahora se puede filtrar el umbral de TIA_14d
+## Y se puede seleccionar otra fecha distinta para ver la evolución
+##
+<img src="img/ZBS_Madrid_Filtradas.png" align='center'>
