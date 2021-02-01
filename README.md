@@ -58,3 +58,7 @@
 ## Y se puede seleccionar otra fecha distinta para ver la evolución
 ##
 <img src="img/ZBS_Madrid_Filtradas.png" align='center'>
+
+
+# También creamos un gif por con imageio.
+<img src="img/CAM_ia14d.gif" align='center'>
